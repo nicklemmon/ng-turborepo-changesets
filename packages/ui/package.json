@@ -1,6 +1,6 @@
 {
   "name": "@repo/ui",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "main": "./dist/ui/fesm2022/ui.mjs",
   "types": "./dist/ui/index.d.ts",
