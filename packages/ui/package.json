@@ -1,6 +1,6 @@
 {
   "name": "@nick.lemmon/ng-ui-test",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./dist/ui/fesm2022/ui.mjs",
   "types": "./dist/ui/index.d.ts",
   "files": [
