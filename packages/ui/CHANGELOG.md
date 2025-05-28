@@ -1,5 +1,11 @@
 # @nick.lemmon/ng-ui-test
 
+## 1.0.0
+
+### Major Changes
+
+- Bumps to Angular 18
+
 ## 0.2.0
 
 ### Minor Changes
