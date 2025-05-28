@@ -1,9 +1,12 @@
 {
-  "name": "@repo/ui",
+  "name": "@nicklemmon/ng-ui-test",
   "version": "0.0.1",
   "private": true,
   "main": "./dist/ui/fesm2022/ui.mjs",
   "types": "./dist/ui/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "ng": "ng",
     "build": "ng build",
