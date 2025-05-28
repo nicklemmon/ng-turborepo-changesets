@@ -3,6 +3,9 @@
   "version": "0.1.1",
   "main": "./dist/ui/fesm2022/ui.mjs",
   "types": "./dist/ui/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "publishConfig": {
     "access": "public"
   },
