@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { MyCounterButtonComponent } from '@repo/ui';
+import { MyCounterButtonComponent } from '@nick.lemmon/ng-ui-test';
 
 @Component({
   selector: 'app-root',
